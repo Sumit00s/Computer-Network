@@ -1,4 +1,4 @@
 # CNS Submission
-Name : Vardhaman Bhandari
-Roll No : TCOD23
+Name : Sumit Sonawane 
+Roll No : TCOD45
 Subject : CNS
